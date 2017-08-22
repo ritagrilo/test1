@@ -1,2 +1,2 @@
 var ola="ola"
-var adeus="adeus"
+val adeus="adeus"
